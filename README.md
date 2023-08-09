@@ -1,4 +1,4 @@
-# ControlClientes-SpringJava
+# ControlDeClientes-SpringJava
 Proyecto realizado con Spring Java, que consta de una aplicación web para agregar, ver, editar y eliminar clientes. 
 
 El proyecto se diseño utilizando el framework Spring, del cual se utilizo:
