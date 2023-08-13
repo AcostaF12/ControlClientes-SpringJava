@@ -1,7 +1,8 @@
-package mx.com.gm.servicio;
+package ar.com.gm.servicio;
 
 import java.util.List;
-import mx.com.gm.domain.Persona;
+
+import ar.com.gm.domain.Persona;
 
 public interface PersonaService {
     

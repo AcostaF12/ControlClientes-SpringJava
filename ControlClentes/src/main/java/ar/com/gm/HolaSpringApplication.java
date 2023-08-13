@@ -1,4 +1,4 @@
-package mx.com.gm;
+package ar.com.gm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

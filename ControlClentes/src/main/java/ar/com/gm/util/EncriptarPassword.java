@@ -1,4 +1,4 @@
-package mx.com.gm.util;
+package ar.com.gm.util;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
